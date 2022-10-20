@@ -1,0 +1,7 @@
+plotly
+streamlit
+pydeck
+pandas
+pydeck
+xlrd
+pydeck[jupyter]
